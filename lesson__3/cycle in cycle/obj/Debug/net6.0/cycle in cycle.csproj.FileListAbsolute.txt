@@ -1,0 +1,15 @@
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\cycle in cycle\obj\Debug\net6.0\cycle in cycle.csproj.AssemblyReference.cache
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\cycle in cycle\obj\Debug\net6.0\cycle in cycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\cycle in cycle\obj\Debug\net6.0\cycle in cycle.AssemblyInfoInputs.cache
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\cycle in cycle\obj\Debug\net6.0\cycle in cycle.AssemblyInfo.cs
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\cycle in cycle\obj\Debug\net6.0\cycle in cycle.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\cycle in cycle\bin\Debug\net6.0\cycle in cycle.exe
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\cycle in cycle\bin\Debug\net6.0\cycle in cycle.deps.json
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\cycle in cycle\bin\Debug\net6.0\cycle in cycle.runtimeconfig.json
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\cycle in cycle\bin\Debug\net6.0\cycle in cycle.dll
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\cycle in cycle\bin\Debug\net6.0\cycle in cycle.pdb
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\cycle in cycle\obj\Debug\net6.0\cycle in cycle.dll
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\cycle in cycle\obj\Debug\net6.0\refint\cycle in cycle.dll
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\cycle in cycle\obj\Debug\net6.0\cycle in cycle.pdb
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\cycle in cycle\obj\Debug\net6.0\cycle in cycle.genruntimeconfig.cache
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\cycle in cycle\obj\Debug\net6.0\ref\cycle in cycle.dll

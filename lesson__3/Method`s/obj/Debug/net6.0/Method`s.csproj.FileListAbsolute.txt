@@ -1,0 +1,15 @@
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\Method`s\bin\Debug\net6.0\Method`s.exe
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\Method`s\bin\Debug\net6.0\Method`s.deps.json
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\Method`s\bin\Debug\net6.0\Method`s.runtimeconfig.json
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\Method`s\bin\Debug\net6.0\Method`s.dll
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\Method`s\bin\Debug\net6.0\Method`s.pdb
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\Method`s\obj\Debug\net6.0\Method`s.csproj.AssemblyReference.cache
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\Method`s\obj\Debug\net6.0\Method`s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\Method`s\obj\Debug\net6.0\Method`s.AssemblyInfoInputs.cache
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\Method`s\obj\Debug\net6.0\Method`s.AssemblyInfo.cs
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\Method`s\obj\Debug\net6.0\Method`s.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\Method`s\obj\Debug\net6.0\Method`s.dll
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\Method`s\obj\Debug\net6.0\refint\Method`s.dll
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\Method`s\obj\Debug\net6.0\Method`s.pdb
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\Method`s\obj\Debug\net6.0\Method`s.genruntimeconfig.cache
+C:\Users\Роман\Documents\lektor__Csharp\lesson__3\Method`s\obj\Debug\net6.0\ref\Method`s.dll
